@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 01:15:07.730131
 #+TITLE: 劉子
-#+DATE: 2015-08-29 01:15:12
+#+PROPERTY: DZID  DZ1030
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，21—726 十卷 太玄部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-涕
+#+PROPERTY: WITNESS HFL
