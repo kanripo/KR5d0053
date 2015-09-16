@@ -1,8 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 劉子
-#+DATE: 2015-08-29 01:15:12
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-涕
